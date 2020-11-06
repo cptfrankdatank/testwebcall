@@ -1,2 +1,2 @@
 # testwebcall
-whoami
+powershell whoami
